@@ -85,12 +85,3 @@ Main application code.
 
 ## requirements.txt:
 List of required dependencies.
-
-## .env:
-Environment variables file (not uploaded to GitHub).
-
-## images/:
-Directory for storing sample images (optional).
-
-## License
-This project is licensed under the MIT License.
