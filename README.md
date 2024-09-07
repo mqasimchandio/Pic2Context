@@ -60,7 +60,7 @@ Upload an image or text file.
 Input a custom prompt.
 Click "Tell me about the file" to get a detailed response from the AI.
 ## Example
-###Input:
+### Input:
 Upload an image of a table.
 
 ## AI Response:
