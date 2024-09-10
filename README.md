@@ -33,17 +33,14 @@ To load environment variables securely.
 ## Installation
 ### Clone the repository:
 ```
-bash
 git clone https://github.com/yourusername/your-repo-name.git
 ```
 ### Navigate to the project directory:
 ```
-bash
 cd your-repo-name
 ```
 ### Install the required dependencies:
 ```
-bash
 pip install -r requirements.txt
 ```
 ### Set up your environment variables:
@@ -51,19 +48,16 @@ pip install -r requirements.txt
 ### Create a .env file in the project directory:
 
 ```
-bash
 touch .env
 ```
 ### Add your Google API key in the .env file:
 ```
-bash
 GOOGLE_API_KEY=YOUR_GOOGLE_API_KEY
 ```
 ### Usage
 ## Run the Streamlit app:
 
 ```
-bash
 streamlit run app.py
 ```
 
