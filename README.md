@@ -1,4 +1,4 @@
-# **Gemini Pro 1.5 - AI-Powered Image & Text Analyzer**
+# Gemini Pro 1.5 - AI-Powered Image & Text Analyzer
 
 ## Project Overview:
 Gemini Pro 1.5 is a Streamlit-based application that leverages Google's Gemini 1.5 AI to analyze images and text. This project reads any uploaded image or text file, understands its context, and provides detailed insights into the content. It can identify different formats like tables, storytelling, question answering, and more.
